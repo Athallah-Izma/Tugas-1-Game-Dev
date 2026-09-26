@@ -1,0 +1,7 @@
+*.exe
+compile_log.txt
+err.txt
+tugas.txt
+flowchart.txt
+
+main.cpp
